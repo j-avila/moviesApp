@@ -4,6 +4,9 @@
 
 This is a React Native application that uses the React Navigation library for navigation and a GradientContext for managing gradient states.
 
+![moviesapp](https://github.com/j-avila/moviesApp/assets/1820321/417a8002-2dbb-45b8-a27f-86374c65e72d)
+
+
 ## Getting Started
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
