@@ -12,7 +12,6 @@ const App = () => {
   return (
     <AppState>
       <NavigationContainer>
-        {/* <BgScreen /> */}
         <HomeStack />
       </NavigationContainer>
     </AppState>
